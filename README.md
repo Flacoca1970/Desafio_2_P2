@@ -6,8 +6,7 @@ Predecir qué clientes tienen **mayor probabilidad de cancelar** (churn) y **pri
 ```
 TelecomX_P2_repo/
 ├─ README_P2.md
-├─ notebooks/
-│  └─ TelecomX_P2_colab.ipynb      # cuaderno único con todo el flujo
+├─ TelecomX_P2_colab.ipynb          # cuaderno único con todo el flujo
 ├─ data/
 │  └─ df_limpo.csv                  # (cárgalo aquí o en /content en Colab)
 └─ reports/
