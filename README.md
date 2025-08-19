@@ -1,5 +1,5 @@
 # Telecom X — Parte 2 · Predicción de Churn (Colab-only)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2_P2/blob/main/notebooks/TelecomX_P2_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2_P2/main/notebooks/TelecomX_P2_colab.ipynb)
 ## 🎯 Propósito
 Predecir qué clientes tienen **mayor probabilidad de cancelar** (churn) y **priorizar acciones de retención** con base en variables relevantes, maximizando la **ganancia neta** de las campañas.
 ## 📁 Estructura del proyecto
