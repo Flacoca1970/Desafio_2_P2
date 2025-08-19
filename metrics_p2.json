@@ -1,0 +1,11 @@
+{
+  "best_model": "gb",
+  "cv_best_pr_auc": 0.6611636486175703,
+  "test_roc_auc": 0.8480753829858688,
+  "test_pr_auc": 0.6638914670433591,
+  "business_best_threshold": 0.03,
+  "business_best_profit": 31635.0,
+  "value_retain": 100.0,
+  "cost_contact": 5.0,
+  "calibration": "isotonic"
+}
